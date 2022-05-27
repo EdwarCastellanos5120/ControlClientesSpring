@@ -1,5 +1,5 @@
  <h1>ControlClientesSpring</h1>
- <img align="center" height="400" width="600" src="https://i.ibb.co/SVy7GLp/CRUD.png">
+ <img align="center" height="400" width="800" src="https://i.ibb.co/SVy7GLp/CRUD.png">
  <hr/>
  <h2>Que es el Proyecto?</h2>
 <p> CRUD sobre un registro de personas con diferente tipo de datos para almacenar en la informacion en una base de datos, utilizando las siguientes tecnologias para desarrollar el proyecto: </p>
