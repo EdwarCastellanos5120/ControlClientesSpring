@@ -2,7 +2,8 @@
  <img align="center" height="400" width="800" src="https://i.ibb.co/SVy7GLp/CRUD.png">
  <hr/>
  <h2>Que es el Proyecto?</h2>
-<p> CRUD sobre un registro de personas con diferente tipo de datos para almacenar en la informacion en una base de datos, utilizando las siguientes tecnologias para desarrollar el proyecto: </p>
+<p>Es un registro de personas (CRUD) con las opciones de insertar nueva informacon, actualizar informacion y eliminar informacion de las personas, utilizamos diferentes tipos de datos para guardar la informacion, toda la informacion va almacenda en una base de datos de MySql y tambien se hacen consultas a la tabla para mostrar el catalogo de opciones  
+ , utilizando las siguientes tecnologias para desarrollar el proyecto: </p>
 
 
  <ul>
